@@ -15,4 +15,6 @@ Liu, Hanmeng, Zhiyang Teng, Leyang Cui, Chaoli Zhang, Qiji Zhou, and Yue Zhang. 
 
 Wei, Jason, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, and Denny Zhou. “Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.” arXiv, January 10, 2023. [http://arxiv.org/abs/2201.11903](http://arxiv.org/abs/2201.11903).
 
+Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. “Attention Is All You Need.” arXiv, August 1, 2023. [http://arxiv.org/abs/1706.03762](http://arxiv.org/abs/1706.03762).
+
 Chollet, François. “On the Measure of Intelligence.” arXiv, November 25, 2019. [http://arxiv.org/abs/1911.01547](http://arxiv.org/abs/1911.01547).
